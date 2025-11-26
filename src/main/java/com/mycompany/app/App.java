@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * example
  */
 public class App {
 
@@ -16,5 +17,6 @@ public class App {
     public String getMessage() {
         return MESSAGE;
         //change
+        //newchangeeeee
     }
 }
